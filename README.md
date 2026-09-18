@@ -15,19 +15,17 @@ Fitness App brings personal profiles, diet planning, meals, workouts, and progre
 
 ## 📱 Screenshots
 
-<!--
-Drag and drop your screenshots directly into this file while editing it on GitHub's
-web editor — GitHub uploads them and auto-inserts the image markdown for you.
-Keep all images at a consistent width (e.g. width="200") so the grid lines up evenly.
--->
+<img width="200"  alt="Sign Up (2)" src="https://github.com/user-attachments/assets/dcf3a9a0-2690-4e1c-91b4-2f11f56c4ae8" />
+<img width="200"  alt="Login (1)" src="https://github.com/user-attachments/assets/1eeafa77-e667-47cf-877d-6f8934e290e0" />
+<img width="200"  alt="Complete Profile (2)" src="https://github.com/user-attachments/assets/8c561a90-453d-43ad-a8bd-265ba72bec10" />
+<img width="200"  alt="Home Dashboard" src="https://github.com/user-attachments/assets/2df34f06-6d25-418f-b823-f1ebaf8fb412" />
+<img width="200"  alt="Create Meal" src="https://github.com/user-attachments/assets/042a5690-b95b-47ca-8afb-edef366b28d0" />
+<img width="200"  alt="Meals Home" src="https://github.com/user-attachments/assets/75f506c8-e9bb-43a6-a7af-d894cd4a097f" />
+<img width="200" alt="Diet Plan Details" src="https://github.com/user-attachments/assets/2cb17957-2a3a-4aad-887d-1b094aa4ef02" />
+<img width="200"  alt="Create Workout Plan" src="https://github.com/user-attachments/assets/63eb9137-3c47-483d-894f-a77d6755b841" />
+<img width="200"  alt="Workout Home" src="https://github.com/user-attachments/assets/b8604613-917f-47be-9fb5-0e0aec50eb14" />
+<img width="200"  alt="Profile" src="https://github.com/user-attachments/assets/b07ae7a8-ef5f-4a4c-b1e4-73f95905b513" />
 
-<p align="center">
-  <img src="screenshots/screenshot1.png" width="200" />
-  <img src="screenshots/screenshot2.png" width="200" />
-  <img src="screenshots/screenshot3.png" width="200" />
-</p>
-
----
 
 ## 📱 Main Modules
 
